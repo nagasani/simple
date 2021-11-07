@@ -9,5 +9,6 @@ public interface Game {
 	void right();
 
 	void left();
+	//
 
 }

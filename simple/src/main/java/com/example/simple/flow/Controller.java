@@ -21,6 +21,4 @@ public class Controller {
 		return bus.calulateSum(); 	
 	}
 
-	
-
 }
